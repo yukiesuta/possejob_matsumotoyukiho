@@ -1,0 +1,22 @@
+header{
+    background-color: #3041A1;
+}
+
+input{
+    border: 2px solid rgb(127, 127, 127);
+    border-radius: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 12px;
+}
+tr {
+    border-color: rgb(212, 212, 212);
+    border-style: solid;
+    border-width: 1px 0;
+}
+
+td{
+    text-align: center;
+}
